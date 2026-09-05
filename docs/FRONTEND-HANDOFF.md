@@ -8,7 +8,7 @@
 
 ## Cómo debe verse
 
-- **Colores:** Fondo muy oscuro `#0B0F1A` (casi negro azulado), letras claras `#F7F8FA`. El azul fuerte `#0A34F5` solo para lo importante: el logo, el botón principal y cuando algo está seleccionado. Todo lo demás en grises suaves.
+- **Colores:** Tema principal **Claro** — fondo `Fondo #F2F4F8` gris muy claro con letras oscuras `#0B0F1A`. Tema secundario **Oscuro** — fondo `#0B0F1A` con letras `#F7F8FA`. El azul fuerte `#0A34F5` solo para lo importante: el logo, el botón principal y cuando algo está seleccionado. Todo lo demás en grises suaves. El usuario puede cambiar entre Claro, Oscuro y Sistema en `Configuración → General → Tema`.
 - **Letras:** Siempre `Inter`. Títulos grandes y en negrita, texto normal de 14px, fácil de leer. Para código, letra de programador.
 - **Espacios:** Mucho aire. El chat nunca apretado. Todo respira. Botones y tarjetas con bordes suaves, no muy redondeados.
 - **Sensación:** Limpia, rápida, seria y moderna. Nada de brillos, ni sombras grandes, ni mucho azul por todos lados.
@@ -40,7 +40,7 @@
 **Configuración:**
 
 - Se abre como una ventana con dos columnas: a la izquierda una lista con `General`, `Notificaciones`, `Voz`, `Cuenta`, etc. A la derecha lo que elegiste.
-- En `General` se ve el selector de tema con tres bolitas: `Sistema`, `Claro`, `Oscuro` (oscuro viene seleccionado).
+- En `General` se ve el selector de tema con tres bolitas: `Sistema`, **`Claro` (viene seleccionado por defecto)**, `Oscuro`. El usuario puede cambiarlo cuando quiera y se guarda.
 
 ---
 
